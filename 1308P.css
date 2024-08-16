@@ -1,0 +1,44 @@
+h1 {
+    background-color:blueviolet;
+    color: white;
+}
+
+.A {
+    white-space: nowrap;
+    width: 50px;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    border: 1px solid #000000;
+}
+
+.B {
+    white-space: nowrap;
+    width: 50px;
+    overflow: hidden;
+    text-overflow:inherit;
+    border: 1px solid #000000;
+}
+
+.C {
+    white-space: nowrap;
+    width: 50px;
+    overflow: hidden;
+    text-overflow:clip;
+    border: 1px solid #000000;
+}
+
+.D {
+    white-space: nowrap;
+    width: 50px;
+    overflow: hidden;
+    text-overflow:initial;
+    border: 1px solid #000000;
+}
+
+.E {
+    white-space: nowrap;
+    width: 50px;
+    overflow: hidden;
+    text-overflow:unset;
+    border: 1px solid #000000;
+}

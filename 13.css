@@ -1,0 +1,98 @@
+body{
+    background-image: url(./OIP\ \(2\).jpeg);
+    background-position: 100%;
+    width: 100%;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border: 2px  dashed rgba(119, 238, 34, 0.828);
+
+}
+
+.j{
+    width: 45%;
+    float: left;
+    text-align: center;
+}
+
+
+.r{
+    width: 45%;
+    float: right;
+    text-align: center;
+}
+
+p{
+    color: white;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.head{
+    background-color: green;
+    color: rgba(255, 21, 0, 0.97);
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 800;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration-line:underline;
+    text-decoration-style:dotted;
+    padding: 3px;
+    border: 2px  dashed rgba(24, 232, 76, 0.828);
+    margin: 20px;
+    text-shadow: 5px 5px 5px rgba(14, 14, 6, 0.978);
+    text-align: center;
+}
+#headr{
+    background-color: black;
+    color: rgb(51, 0, 255);
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 800;
+    font-style: normal;
+    text-decoration-line:overline;
+    text-decoration-style:solid;
+    padding: 5px;
+    border: 2px double yellow;
+    margin: 2px;
+    text-shadow:3px 3px 3px rgba(248, 8, 8, 0.898);
+    text-align: center;
+    text-transform: capitalize;
+
+}
+#headj{
+    background-color: black;
+    color:rgb(232, 9, 235);
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 800;
+    font-style: normal;
+    text-decoration-line:underline;
+    text-decoration-style:solid;
+    padding: 5px;
+    border: 2px  double yellow;
+    margin: 2px;
+    text-shadow:3px 3px 3px rgba(0, 255, 13, 0.904);
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#p1{
+    background-image: linear-gradient(red, rgb(0, 255, 34));
+}
+#p2{
+    background-image: linear-gradient(to right, rgb(40, 22, 158),orange,yellow,green,blue,indigo,violet);
+    border: 1px  dashed rgba(24, 232, 76, 0.828);
+}
+#p3{
+    background-image: linear-gradient(to bottom right, rgb(60, 163, 89), rgb(199, 76, 150));
+    border: 1px  dashed rgba(24, 232, 76, 0.828);
+}
+
+#p4{
+    background-image: linear-gradient(to right, rgb(111, 27, 27),orange,yellow,green,rgb(75, 75, 112),indigo,violet);
+    border: 1px  dashed rgba(24, 232, 76, 0.828);
+}
